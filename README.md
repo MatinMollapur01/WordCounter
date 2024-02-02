@@ -1,16 +1,40 @@
-# myapp
+# Word Counter Flutter App
 
-A new Flutter project.
+## Overview
+Welcome to the Word Counter Flutter App by M-soft! This Flutter application helps you count the number of words in a given sentence. It's a simple and effective tool for tracking your writing or analyzing text content.
+
+## Features
+- Input a sentence and get an instant word count.
+- Clean and intuitive user interface.
+- Built with Flutter for cross-platform compatibility.
+
+## Screenshots
+Include screenshots or gifs to showcase your app's user interface.
 
 ## Getting Started
+To run this app on your local machine, follow these steps:
 
-This project is a starting point for a Flutter application.
+1. Ensure you have Flutter installed. If not, [install Flutter](https://flutter.dev/docs/get-started/install).
+2. Clone this repository.
+   ```bash
+   git clone https://github.com/MatinMollapur01/WordCounter.git
 
-A few resources to get you started if this is your first Flutter project:
+Navigate to the project directory.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+cd word_counter_flutter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run the app.
+
+flutter run
+
+Dependencies
+List any external libraries or dependencies used in your project.
+
+Contributing
+If you'd like to contribute to this project, please follow our contribution guidelines.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+Acknowledge anyone or resources that inspired or helped in the development.
