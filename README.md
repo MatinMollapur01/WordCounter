@@ -16,16 +16,19 @@ To run this app on your local machine, follow these steps:
 
 1. Ensure you have Flutter installed. If not, [install Flutter](https://flutter.dev/docs/get-started/install).
 2. Clone this repository.
+
    ```bash
    git clone https://github.com/MatinMollapur01/WordCounter.git
 
 Navigate to the project directory.
 
-cd word_counter_flutter
+   ```bash
+   cd WordCounter
 
 Run the app.
 
-flutter run
+   ```bash
+   flutter run
 
 Dependencies
 List any external libraries or dependencies used in your project.
